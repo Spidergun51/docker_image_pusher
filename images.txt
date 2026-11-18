@@ -1,4 +1,4 @@
-infiniflow/ragflow:v0.16.0-slim
+#infiniflow/ragflow:v0.16.0-slim
 
 #infiniflow/infinity:v0.6.0-dev3
 
@@ -14,4 +14,4 @@ infiniflow/ragflow:v0.16.0-slim
 
 #valkey/valkey:8
 
-#minio/minio
+minio/minio:latest
